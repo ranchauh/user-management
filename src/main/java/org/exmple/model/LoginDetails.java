@@ -1,0 +1,11 @@
+package org.exmple.model;
+
+import lombok.Builder;
+import lombok.Data;
+
+@Data
+@Builder
+public class LoginDetails {
+    private String username;
+    private String password;
+}
