@@ -1,4 +1,4 @@
-# user-management
+# User Management System
 
 ## Create a user management system such that -
 
